@@ -9,4 +9,4 @@ I'm a developer and mathematician. I love build open-source code, learning new t
 
 ### I'm running to environments where I can learn new things 🤟
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8fe6da81436849.5cffaef4c8c0a.gif" />
+<img height="200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8fe6da81436849.5cffaef4c8c0a.gif" />
